@@ -28,5 +28,3 @@ You'll see:
 numpy
 matplotlib
 ```
-
-Based on CS50AI coursework.
